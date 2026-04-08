@@ -160,3 +160,5 @@ Dataset guardado en dataset_imdb.csv
 ## Resultado
 
 El resultado es un dataset estructurado y listo para análisis en R o Python, que será utilizado en la Práctica 2 para limpieza y visualización de datos.
+
+## Zenodo link: https://doi.org/10.5281/zenodo.19476345
